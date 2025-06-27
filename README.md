@@ -1,16 +1,15 @@
-## Hi there 👋
+## What's up, everybody´!
 
-<!--
-**guhorlando/Guhorlando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm Gustavo Silva Orlando;
+- I've 19 years old;
+- I'm from Santo André, São Paulo, Brazil;
+- I'm studying Computer Science on Universidade Federal de Alfenas;
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+- 📧 Email: [guhorlando@outlook.com](mailto:gustavo.silvaorlando@outlook.com)  
+- 💼 LinkedIn: [linkedin.com/in/guhorlando](https://www.linkedin.com/in/gustavo-orlando-78a606313)  
+- 🐱 GitHub: [github.com/guhorlando](https://github.com/Guhorlando)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
